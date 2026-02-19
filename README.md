@@ -57,7 +57,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=The3DP"></img>
 
 <!-- dark snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/The3DP/The3DP/output/github-contribution-grid-snake-dark.svg)
+![The3DP's github activity graph](https://raw.githubusercontent.com/The3DP/The3DP/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
