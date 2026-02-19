@@ -174,7 +174,7 @@ counting of visitors to this page in this section started from May 8, 2022
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=The3DP/BEPb&type=Date)](https://star-history.com/#The3DP/The3DP&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Bit77/The3DP&type=Date)](https://star-history.com/#The3DP/The3DP&Date)
 
 ### Profile Views
 counting of visitors to this page in this section started from now
