@@ -179,7 +179,7 @@ counting of visitors to this page in this section started from May 8, 2022
 
 
 ### Profile Views
-counting of visitors to this page in this section started from (unknown)
+counting of visitors to this page in this section started from now
 
 ![](https://count.getloli.com/get/@The3DP.github.readme)
 </br>
@@ -187,7 +187,5 @@ counting of visitors to this page in this section started from (unknown)
 [MIT](LICENSE)
 
 </p>
-
-[for the future hacker...](https://referral.hackthebox.com/mz8gTFM)
 
 ![](assets/Bottom_down.svg)
