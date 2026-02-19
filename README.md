@@ -48,17 +48,17 @@
 ### 📈 GitHub Activity Graph:
 
 <!--   green snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+![The3DP's github activity graph](https://raw.githubusercontent.com/The3DP/The3DP/output/github-contribution-grid-snake.svg)
 <!--   stats + languages -->
 | .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
+|-----------------------------------------------------------------------------------------------------------------------------------------|
+| ![The3DP's github stats](https://github-readme-stats.vercel.app/api?username=The3DP&show_icons=true&theme=radical&include_all_commits=true) 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=The3DP"></img>
 
 <!-- dark snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
+![BEPb's github activity graph](https://raw.githubusercontent.com/The3DP/The3DP/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
@@ -72,17 +72,10 @@
 
 <!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
 
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=BEPb" width="auto"></img>
+<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=The3DP" width="auto"></img>
 <!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&show-other-skills=true" width="auto"></img>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=The3DP&show-other-skills=true" width="auto"></img>
 
-**📫 How to Reach me:**
-<p align="left">
-<a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="mailto:andrej.marinchenko@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
-</p>
 
 <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
