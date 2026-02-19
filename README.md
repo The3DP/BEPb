@@ -50,9 +50,8 @@
 <!--   green snake -->
 ![The3DP's github activity graph](https://raw.githubusercontent.com/The3DP/The3DP/output/github-contribution-grid-snake.svg)
 <!--   stats + languages -->
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|
-| ![The3DP's github stats](https://github-readme-stats.vercel.app/api?username=The3DP&show_icons=true&theme=radical&include_all_commits=true) 
+
+ ![The3DP's github stats](https://github-readme-stats.vercel.app/api?username=The3DP&show_icons=true&theme=radical&include_all_commits=true) 
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=The3DP"></img>
